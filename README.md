@@ -1,4 +1,4 @@
-👋 Hi, I’m @diegogonzalezfe, a current student of Software Engineering at the Polytechnic University of Madrid
+👋 Hi, I’m @diegogonzalezfe, Software and DevOps Engineer
 
 <!---
 diegogonzalezfe/diegogonzalezfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
